@@ -33,9 +33,3 @@ toml==0.10.1
 tqdm==4.48.2
 twine==3.2.0
 webencodings==0.5.1
-
-#pytest cov
-
-coverage==5.2.1
-pytest-cov==2.10.1
-
