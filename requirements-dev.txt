@@ -3,3 +3,33 @@ mccabe==0.6.1
 pycodestyle==2.6.0
 pyflakes==2.2.0
 - r requirementes.txt
+
+# deps pytest e twine
+
+attrs==19.3.0
+bleach==3.1.5
+cffi==1.14.2
+colorama==0.4.3
+cryptography==3.0
+docutils==0.16
+iniconfig==1.0.1
+jeepney==0.4.3
+keyring==21.3.0
+more-itertools==8.4.0
+packaging==20.4
+pkginfo==1.5.0.1
+pluggy==0.13.1
+py==1.9.0
+pycparser==2.20
+Pygments==2.6.1
+pyparsing==2.4.7
+pytest==6.0.1
+readme-renderer==26.0
+requests-toolbelt==0.9.1
+rfc3986==1.4.0
+SecretStorage==3.1.2
+six==1.15.0
+toml==0.10.1
+tqdm==4.48.2
+twine==3.2.0
+webencodings==0.5.1
